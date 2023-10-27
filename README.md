@@ -13,7 +13,7 @@ Project title -
 
 Algorithms used -
 1.Huffman Encoding
-2.Run-length Encoding (RLE)
-3.LZW (Lempel-Ziv-Welch) Compression
+2.LZ77 Compression algorithm
+3.LZW Compression
 
 Programming language: C++
