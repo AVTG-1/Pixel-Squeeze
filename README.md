@@ -10,7 +10,7 @@ Mentor : Manpreet Kaur
 
 
 Project title -
-'Efficiency of LOSSLESS IMAGE COMPRESSION TECHNIQUES on uncompressed image format (BMP)'
+'Efficiency of LOSSLESS IMAGE COMPRESSION TECHNIQUES on uncompressed image format'
 
 
 This project explores image compression by employing complex data structures and tailored algorithms that allow for great compression for storage purposes.
