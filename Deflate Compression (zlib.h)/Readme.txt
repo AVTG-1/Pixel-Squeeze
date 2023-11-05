@@ -9,3 +9,5 @@ At the time of compilation, the header file "zlib.h" must be linked to the progr
 g++ Deflate.cpp -lz
 
 The program reads a BMP image named "i1.bmp". Ensure that such an images is present in the running directory before execution.
+
+The program outputs a binary file named "compressed_data.bin" which contains the image data after compression.
