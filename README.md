@@ -1,19 +1,22 @@
 # CS201-Project
 
-This repository is created for keeping an official record of the CS201 Project undertaken by the Group-31 of the CS201 class of 2026 batch, IIT Ropar consisting of the following members -
-
+Group-31 :
 Aryan Verma (2022CSB1070)
 Patel Ayush (2022CSB1101)
 Nikhil Gupta (2022MCB1272)
 
 
+Mentor : Manpreet Kaur
+
 
 Project title -
-'LOSSLESS PNG IMAGE COMPRESSION employing several algorithms'
+'Efficiency of LOSSLESS IMAGE COMPRESSION TECHNIQUES on uncompressed image format (BMP)'
 
-Algorithms used -
-1.Huffman Encoding
-2.LZ77 Compression algorithm
-3.LZW Compression
+
+This project explores image compression by employing complex data structures and tailored algorithms that allow for great compression for storage purposes.
+We have explored the following lossless compression techniques -
+1. Huffman Encoding (custom implementation)
+2. Deflate Compression (available standard)
+These algorithms have been employed on BITMAP image (BMP) files, which is an uncompressed data format. We have studied these algorithms in details and their effeciencies for several types of images, and recorded the results.
 
 Programming language: C++
