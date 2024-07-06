@@ -1,4 +1,4 @@
-# CS201-Project
+# Pixel-Squeeze
 
 Group-31 :
 Aryan Verma (2022CSB1070)
